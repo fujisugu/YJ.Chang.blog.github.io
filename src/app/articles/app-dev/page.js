@@ -25,7 +25,7 @@ export default function AppDevArticle() {
             為了準備研究所資訊組的推甄與考試，我決定透過實作一款完整的應用程式來進行自我修練。
           </p>
           <p>
-            這款 APP 結合了日常任務管理與遊戲化（Gamification）機制，讓每天的待辦事項變得像在打怪升級一樣有趣。在開發過程中，我實作了前端 UI 設計、資料流處理以及模組化的邏輯架構。
+            這款 APP 結合了日常任務管理與遊戲化機制，讓每天的待辦事項變得像在打怪升級一樣有趣。在開發過程中，我實作了前端 UI 設計、資料流處理以及模組化的邏輯架構。
           </p>
           <h2 className="text-xl font-bold text-[#9b59b6] mt-6 mb-2">核心技術與架構</h2>
           <ul className="list-disc list-inside space-y-1 text-gray-400">

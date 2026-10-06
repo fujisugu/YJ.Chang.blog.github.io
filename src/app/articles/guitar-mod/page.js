@@ -25,7 +25,7 @@ export default function GuitarModArticle() {
           <section>
             <h2 className="text-2xl font-bold text-[#9b59b6] mb-3">改裝動機</h2>
             <p>
-              這把 Ibanez GIO GRX70QA 陪伴我度過了很多練琴的時光，但原本的琴橋拾音器在彈奏高增益 (High Gain) 破音時，聲音總是稍微糊了一點，而且一直有惱人的電路接地雜音（手放開琴弦就會有滋滋聲）。因此決定自己動手升級成 Seymour Duncan Pegasus，並重新處理內部線路。
+              這把 Ibanez GIO GRX70QA 陪伴我度過了很多練琴的時光，但原本的琴橋拾音器在彈奏 High Gain 破音時，聲音總是稍微糊了一點，而且一直有惱人的電路接地雜音（手放開琴弦就會有滋滋聲）。因此決定自己動手升級成 Seymour Duncan Pegasus，並重新處理內部線路。
             </p>
           </section>
 
@@ -56,7 +56,7 @@ export default function GuitarModArticle() {
             <div className="space-y-6 bg-[#1e1e1e] p-6 rounded-lg">
               {/* 改裝前試聽 */}
               <div>
-                <h3 className="text-white font-semibold mb-2">🎧 改裝前 (原廠拾音器)</h3>
+                <h3 className="text-white font-semibold mb-2">改裝前 (原廠拾音器)</h3>
                 {/* audio 標籤就是網頁原生的音樂播放器 */}
                 <audio controls className="w-full">
                   <source src="/before-mod.mp3" type="audio/mpeg" />
@@ -66,7 +66,7 @@ export default function GuitarModArticle() {
 
               {/* 改裝後試聽 */}
               <div>
-                <h3 className="text-white font-semibold mb-2">🎧 改裝後 (Seymour Duncan Pegasus)</h3>
+                <h3 className="text-white font-semibold mb-2">改裝後 (Seymour Duncan Pegasus)</h3>
                 <audio controls className="w-full">
                   <source src="/after-mod.mp3" type="audio/mpeg" />
                   你的瀏覽器不支援音樂播放。
