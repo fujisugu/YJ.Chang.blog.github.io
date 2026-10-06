@@ -28,7 +28,7 @@ export default function Home() {
             <h2 className="text-2xl font-bold text-[#9b59b6] mb-2">關於我</h2>
             <p className="mb-2">嗨，我是張永傑。目前就讀於台科大營建工程系。</p>
             <p className="text-gray-300">
-              這個部落格是我記錄技術研究與生活軌跡的地方。有時間在這邊看還不快去練琴。
+              這個部落格是我記錄技術研究與生活軌跡的地方。如果你是我的學生，有時間在這邊看還不快去練琴。
             </p>
           </div>
         </section>
@@ -40,7 +40,7 @@ export default function Home() {
             
             {/* 文章卡片 1：點擊可以跳轉到獨立文章頁面 */}
             <div className="bg-[#1e1e1e] p-5 rounded-lg border-l-4 border-[#9b59b6]">
-              <h3 className="text-xl font-semibold text-white mb-2">美日任務APP開發</h3>
+              <h3 className="text-xl font-semibold text-white mb-2">每日任務APP開發</h3>
               <p className="text-[0.95rem] text-[#b0b0b0] mb-2">分類：技術研究 | 日期：2026-09-28</p>
               <p className="text-[0.95rem] text-gray-300 mb-4">為了準備研究所資訊組正在自我修練中。</p>
               <div className="space-x-3">
