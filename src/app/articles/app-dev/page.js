@@ -15,7 +15,7 @@ export default function AppDevArticle() {
 
         {/* 文章標題區 */}
         <header className="border-b border-[#9b59b6] pb-4">
-          <h1 className="text-3xl font-bold text-white mb-2">美日任務 APP 開發緣起</h1>
+          <h1 className="text-3xl font-bold text-white mb-2">每日任務 APP 開發緣起</h1>
           <p className="text-sm text-[#b0b0b0]">分類：技術研究 | 發布日期：2026-09-28 | 作者：張永傑</p>
         </header>
 
